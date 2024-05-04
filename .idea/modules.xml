@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA_Princeton.iml" filepath="$PROJECT_DIR$/.idea/DSA_Princeton.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReview/JavaReview.iml" filepath="$PROJECT_DIR$/JavaReview/JavaReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Percolation/Percolation.iml" filepath="$PROJECT_DIR$/Percolation/Percolation.iml" />
     </modules>
   </component>
 </project>
